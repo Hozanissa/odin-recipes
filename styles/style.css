@@ -6,4 +6,6 @@ li a{
     list-style-type: none;
     font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
 }
